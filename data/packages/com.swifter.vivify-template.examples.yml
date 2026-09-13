@@ -16,5 +16,5 @@ hunter: Swifter1243
 gitTagPrefix: com.swifter.vivify-template.examples/
 gitTagIgnore: ''
 minVersion: ''
-readme: upm-packages:README.md
+readme: master:README.md
 createdAt: 1789257539151
